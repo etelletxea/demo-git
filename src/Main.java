@@ -14,6 +14,7 @@ public class Main {
         lista.add(p2);
         lista.add(p3);
         lista.add(p4);
+        lista.add(p5);
         for (Persona p:lista){
             System.out.println(p.toString());
         }
