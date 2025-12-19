@@ -1,0 +1,8 @@
+Lista alumnos del IES Severo Ochoa
+Ord.;Grupo;Nombre
+1;1J;Enma
+2;1J;Pepe 
+3;1J;Lucas
+4;1J;Gloria
+5;1J;Anne
+6;2X;Paco
