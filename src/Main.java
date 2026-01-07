@@ -8,11 +8,13 @@ public class Main {
         Persona p2=new Persona("maria",40);
         Persona p3=new Persona("gema",15);
         Persona p4=new Persona("juan",30);
+        Persona p5=new Persona("Pepo",70);
         ArrayList<Persona> lista=new ArrayList<Persona>();
         lista.add(p1);
         lista.add(p2);
         lista.add(p3);
         lista.add(p4);
+        lista.add(p5);
         for (Persona p:lista){
             System.out.println(p.toString());
         }
